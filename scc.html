@@ -1,0 +1,28 @@
+<script>
+	/*var sum = 0;
+		for(var i=0; i<=100; i+=5){
+		document.write(i+"<br/>");
+			 sum +=i;
+		}
+		document.write(sum+"<br/>");*/
+		var states = ["abia","Adamawa","Anambra","Akwa Ibom","Bauchi","Bayelsa","Benue","Borno","Cross River","Delta","Ebonyi","Enugu",
+		"Edo","Ekiti","Gombe","Imo","Jigawa","Kaduna","Kano","Katsina","Kebbi","Kogi","Kwara","Lagos","Nasarawa","Niger","Ogun","Ondo",
+		"Osun","Oyo","Plateau","Rivers","Sokoto","Taraba","Yobe","Zamfara"];
+		
+		
+	var sorted = states.sort(function(a,b){
+		return b.length - a.length;
+	});
+	for(var j=0; j<=sorted.length-1; j++)
+	{
+		if(j === sorted.length/2-1){
+			document.write("---------------------------");
+		}else if(j === sorted.length/2+1){
+			document.write("---------------------------");
+		
+		}
+		document.write("("+j+") "+sorted[j]+"<br/>");
+	}
+		
+		
+</script>

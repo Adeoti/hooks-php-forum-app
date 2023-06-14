@@ -1,0 +1,92 @@
+	
+													<div class="content-pane">
+														<div class="profPix"><img src="images/profPix.jpg"/></div>
+															<div class="caption">
+																<strong>The man of that Argon has been jailed in the mist of perfume</strong>
+																<div class="cap-bottom">most recent by <strong>Adeoti Nurudeen</strong> &dash; 20, jan 2018 <i class="fa fa-long-arrow-right"></i> <strong>Health</strong></div>
+															</div>
+															<div class="hint">
+																<span class="view-count"><i class="fa fa-eye" style="color:#49ae4d; font-size:18px;"></i> 343</span>
+																<span class="comment-count"><i class="fa fa-comments" style="color:#2e9fff; font-size:18px;"></i> 23</span>
+																<span class="upvote-count"><i class="fa fa-hand-o-up" style="color:#2e9fff; font-size:18px;"></i> 30</span>
+																<span class="downvote-count"><i class="fa fa-hand-o-down" style="color:#ffc107; font-size:18px;"></i> 10</span>
+															</div>
+													</div>
+													<div class="content-pane">
+														<div class="profPix"><img src="images/profPix2.jpg"/></div>
+															<div class="caption">
+																<strong>The man of that Argon has been jailed in the mist of perfume</strong>
+																<div class="cap-bottom">most recent by <strong>Adeoti Nurudeen</strong> &dash; 20, jan 2018 <i class="fa fa-long-arrow-right"></i> <strong>Sport</strong></div>
+															</div>
+															<div class="hint">
+																<span class="view-count"><i class="fa fa-eye" style="color:#49ae4d; font-size:18px;"></i> 98</span>
+																<span class="comment-count"><i class="fa fa-comments" style="color:#2e9fff; font-size:18px;"></i> 500</span>
+																<span class="upvote-count"><i class="fa fa-hand-o-up" style="color:#2e9fff; font-size:18px;"></i> 30</span>
+																<span class="downvote-count"><i class="fa fa-hand-o-down" style="color:#ffc107; font-size:18px;"></i> 10</span>
+															</div>
+													</div>
+													<div class="content-pane">
+														<div class="profPix"><img src="images/profPix3.jpg"/></div>
+															<div class="caption">
+																<strong>The man of that Argon has been jailed in the mist of perfume</strong>
+																<div class="cap-bottom">most recent by <strong>Adeoti Nurudeen</strong> &dash; 20, jan 2018 <i class="fa fa-long-arrow-right"></i> <strong>Tech..</strong></div>
+															</div>
+															<div class="hint">
+																<span class="view-count"><i class="fa fa-eye" style="color:#49ae4d; font-size:18px;"></i> 7</span>
+																<span class="comment-count"><i class="fa fa-comments" style="color:#2e9fff; font-size:18px;"></i> 90</span>
+																<span class="upvote-count"><i class="fa fa-hand-o-up" style="color:#2e9fff; font-size:18px;"></i> 30</span>
+																<span class="downvote-count"><i class="fa fa-hand-o-down" style="color:#ffc107; font-size:18px;"></i> 10</span>
+															</div>
+													</div>
+													<div class="content-pane">
+														<div class="profPix"><img src="images/profPix4.jpg"/></div>
+															<div class="caption">
+																<strong>The man of that Argon has been jailed in the mist of perfume</strong>
+																<div class="cap-bottom">most recent by <strong>Adeoti Nurudeen</strong> &dash; 20, jan 2018 <i class="fa fa-long-arrow-right"></i> <strong>Science</strong></div>
+															</div>
+															<div class="hint">
+																<span class="view-count"><i class="fa fa-eye" style="color:#49ae4d; font-size:18px;"></i> 57</span>
+																<span class="comment-count"><i class="fa fa-comments" style="color:#2e9fff; font-size:18px;"></i> 66</span>
+																<span class="upvote-count"><i class="fa fa-hand-o-up" style="color:#2e9fff; font-size:18px;"></i> 30</span>
+																<span class="downvote-count"><i class="fa fa-hand-o-down" style="color:#ffc107; font-size:18px;"></i> 10</span>
+															</div>
+													</div>
+													<div class="content-pane">
+														<div class="profPix"><img src="images/profPix5.jpg"/></div>
+															<div class="caption">
+																<strong>The man of that Argon has been jailed in the mist of perfume</strong>
+																<div class="cap-bottom">most recent by <strong>Adeoti Nurudeen</strong> &dash; 20, jan 2018 <i class="fa fa-long-arrow-right"></i> <strong>Yoruba</strong></div>
+															</div>
+															<div class="hint">
+																<span class="view-count"><i class="fa fa-eye" style="color:#49ae4d; font-size:18px;"></i> 2000</span>
+																<span class="comment-count"><i class="fa fa-comments" style="color:#2e9fff; font-size:18px;"></i> 500</span>
+																<span class="upvote-count"><i class="fa fa-hand-o-up" style="color:#2e9fff; font-size:18px;"></i> 30</span>
+																<span class="downvote-count"><i class="fa fa-hand-o-down" style="color:#ffc107; font-size:18px;"></i> 10</span>
+															</div>
+													</div>
+													<div class="content-pane">
+														<div class="profPix"><img src="images/profPix.jpg"/></div>
+															<div class="caption">
+																<strong>The man of that Argon has been jailed in the mist of perfume</strong>
+																<div class="cap-bottom">most recent by <strong>Adeoti Nurudeen</strong> &dash; 20, jan 2018 <i class="fa fa-long-arrow-right"></i> <strong>Health</strong></div>
+															</div>
+															<div class="hint">
+																<span class="view-count"><i class="fa fa-eye" style="color:#49ae4d; font-size:18px;"></i> 2000</span>
+																<span class="comment-count"><i class="fa fa-comments" style="color:#2e9fff; font-size:18px;"></i> 500</span>
+																<span class="upvote-count"><i class="fa fa-hand-o-up" style="color:#2e9fff; font-size:18px;"></i> 30</span>
+																<span class="downvote-count"><i class="fa fa-hand-o-down" style="color:#ffc107; font-size:18px;"></i> 10</span>
+															</div>
+													</div>
+													<div class="content-pane">
+														<div class="profPix"><img src="images/profPix.jpg"/></div>
+															<div class="caption">
+																<strong>The man of that Argon has been jailed in the mist of perfume</strong>
+																<div class="cap-bottom">most recent by <strong>Adeoti Nurudeen</strong> &dash; 20, jan 2018 <i class="fa fa-long-arrow-right"></i> <strong>Health</strong></div>
+															</div>
+															<div class="hint">
+																<span class="view-count"><i class="fa fa-eye" style="color:#49ae4d; font-size:18px;"></i> 2000</span>
+																<span class="comment-count"><i class="fa fa-comments" style="color:#2e9fff; font-size:18px;"></i> 500</span>
+																<span class="upvote-count"><i class="fa fa-hand-o-up" style="color:#2e9fff; font-size:18px;"></i> 30</span>
+																<span class="downvote-count"><i class="fa fa-hand-o-down" style="color:#ffc107; font-size:18px;"></i> 10</span>
+															</div>
+													</div>
